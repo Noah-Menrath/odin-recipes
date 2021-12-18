@@ -1,0 +1,70 @@
+.cookie-link,
+.cake-link,
+.smoothie-link {
+    font-size: 24px;
+}
+
+.cookie-link {
+    color: rgb(214, 126, 12);
+}
+
+.cake-link {
+    color: rgb(251, 255, 0);
+}
+
+.smoothie-link {
+    color: rgb(248, 4, 175);
+}
+
+.cookie-image img,
+.cake-image img,
+.smoothie-image img{
+    height: auto;
+    width: 500px;
+}
+
+#smoothie-all,
+#cake-all,
+#cookie-all {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 22px;
+}
+
+.smoothie-heading {
+    background-color: rgb(248, 4, 175);
+    color: white;
+    font-size: 28px;
+}
+.cake-title,
+.cake-heading {
+    background-color: rgb(251, 255, 0);
+}
+
+.cake-heading {
+    font-size: 26px;
+}
+
+.cake-title {
+    font-size: 28px;
+}
+
+.cake-sub {
+    font-size: 24px;
+}
+
+.cookie-title,
+.cookie-heading {
+    background-color: rgb(214, 126, 12)
+
+
+}
+
+.cookie-title {
+    font-size: 28px;
+
+}
+
+.cookie-heading {
+    font-size: 24px;
+
+}
